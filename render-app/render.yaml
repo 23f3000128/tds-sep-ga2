@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: SERVICE_NAME
+    name: tds-ga2
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
